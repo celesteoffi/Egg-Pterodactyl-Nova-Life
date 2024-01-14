@@ -10,8 +10,8 @@ Lien de téléchargement des fichier :
 - [Nova Life Serveur PulseNoeud](https://fnafhosting.fr/novalife-pulsenoeud.tar.gz)
 - [Nova Life Serveur](https://fnafhosting.fr/novalife-serveur.tar.gz)
 
-# Serveur Fichier d'installation des egg Fonctionnel
+# Mise à jour et disponibilité
 
-- Encore Mise A jour : ✅
+- Encore Mise à jour : ✅
 - Fichier De téléchargement disponible : ✅
 - Mise A jour automitique du port serveur : ❌
