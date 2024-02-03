@@ -13,7 +13,7 @@
         "ghcr.io\/parkervcp\/steamcmd:debian": "ghcr.io\/parkervcp\/steamcmd:debian"
     },
     "file_denylist": [],
-    "startup": ".\/nova-life.x86_64 -batchmode -nographics -startServer \"{{HOSTNAME}}\"",
+    "startup": ".\/nova-life.x86_64 -batchmode -nographics -startServer \"{{HOSTNAME}}\" -logFile \"logs.log\"",
     "config": {
         "files": "{}",
         "startup": "{\r\n    \"done\": \"succeeded. Welcome!\"\r\n}",
