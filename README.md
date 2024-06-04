@@ -12,6 +12,6 @@ Lien de téléchargement des fichier :
 
 # Mise à jour et disponibilité
 
-- Encore Mise à jour : ✅
-- Fichier De téléchargement disponible : ✅
+- Encore Mise à jour : ❌
+- Fichier De téléchargement disponible : ❌
 - Mise A jour automitique du port serveur : ❌
